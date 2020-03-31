@@ -1,0 +1,9 @@
+.class1 {
+    max-height:0px;
+    transition:max-height 1s;
+  /*   overflow:hidden; */
+  }
+  img{
+    height: 200px;
+    width: 200px;
+  }
